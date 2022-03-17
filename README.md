@@ -6,3 +6,9 @@ Heading to the checkout with a shopping cart full of items, wondering how much y
 *	Pi-Camera
 * Intel's Neural Compute Stick2    
 * Weight sensor
+
+## Authors
+- [Senay Gebreab](https://github.com/SenayGe)
+- [Feruz Elmay]
+- [Murad Mebrahtu](https://github.com/Murdism)
+- [Nardos Daniel]((https://github.com/anulan)
