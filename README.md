@@ -9,6 +9,6 @@ Heading to the checkout with a shopping cart full of items, wondering how much y
 
 ## Authors
 - [Senay Gebreab](https://github.com/SenayGe)
-- Feruz Elmay
+- [Feruz Elmay](https://github.com/fairouzK)
 - [Murad Mebrahtu](https://github.com/Murdism)
 - [Nardos Daniel](https://github.com/anulan)
